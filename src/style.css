@@ -455,6 +455,7 @@ html {
   gap: 24px;
   list-style: none;
 }
+
 @media (max-width: 768px) {
   .mobile-menu-button {
     display: block;
